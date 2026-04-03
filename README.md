@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project implements an **Automatic Speech Recognition (ASR)** system that converts speech (audio) into text using **Facebook’s Wav2Vec2 model** from Hugging Face Transformers.
+This project implements an **Automatic Speech Recognition (ASR)** system that converts speech (audio) into text using **Facebook’s Wav2Vec2 model** from Hugging Face Transformers and **SPRINGLab's asr-task-data**.
 
 The pipeline includes:
 
